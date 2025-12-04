@@ -1,0 +1,38 @@
+site_name: ICEM Csound Tutorium
+site_url: https://sitename.example
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  favicon: assets/icem.png
+  logo: assets/icem.png
+  palette:
+    # Dark Mode
+    - scheme: slate
+      primary: blue grey
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+        accent: deep orange
+
+    # Light Mode
+    - scheme: default
+      primary: blue grey
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+        accent: deep orange
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences

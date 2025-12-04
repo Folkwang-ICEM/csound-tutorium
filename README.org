@@ -1,0 +1,8 @@
+* ICEM Csound Tutorium Website
+
+This website is based on the static site generator [[https://squidfunk.github.io/mkdocs-material/][Material for MKDocs]]. See the documentation for more information.
+
+** Prerequisites
+
+- Python >= 3.12
+- PIP Package Manager
