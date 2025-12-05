@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+- [Welcome](#orga2c231f)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-:beers:
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+<a id="orga2c231f"></a>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Welcome
+
+This is the website for the Csound Tutorium at [ICEM](https://icem-www.folkwang-uni.de/icem-web/) at the Folkwang Universität der Künste.
+
+This website provides the materials for the tutorium.

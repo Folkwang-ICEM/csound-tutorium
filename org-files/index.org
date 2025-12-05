@@ -1,0 +1,11 @@
+#+title: Index
+#+author: Philipp von Neumann
+#+date: 2025-12-05
+
+* Welcome
+
+This is the website for the Csound Tutorium at [[https://icem-www.folkwang-uni.de/icem-web/][ICEM]] at the Folkwang Universität der Künste.
+
+This website provides the materials for the tutorium.
+
+ 
